@@ -1,5 +1,3 @@
-colaborador = dajosalas@gmail.com
-desarrollador= josealfredobarriossalgado@gmail.com
 
 
 
